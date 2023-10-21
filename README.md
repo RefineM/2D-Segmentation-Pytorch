@@ -40,7 +40,7 @@
 * Loss function：
    * Cross-Entropy loss 
    * Dice loss
-   * Focal loss
+   * Focal loss for multi-class [[Doc]](https://github.com/RefineM/segment_pytorch/blob/master/focal_loss_multiclass.md)
 * Metric：
    * IOU
    * Dice-Score
