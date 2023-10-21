@@ -37,11 +37,10 @@
 
 * Net：
    * Unet
-   * Resnet (To Do)
 * Loss function：
    * Cross-Entropy loss 
    * Dice loss
-   * [Focal loss](https://github.com/RefineM/FocalLoss_multiclass)
+   * Focal loss
 * Metric：
    * IOU
    * Dice-Score
