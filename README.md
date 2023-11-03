@@ -6,10 +6,6 @@
 
 ![test_on_whu_building](assets/1.jpg)  
 
-<h4> test on LoveDA dataset:  </h4> 
-
-![test_on_LoveDA](assets/2.jpg)
-
 ## Code Structure
 
 ```
