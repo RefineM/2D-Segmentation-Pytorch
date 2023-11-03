@@ -1,4 +1,4 @@
-<h1>Segment_Pytorch</h1>
+<h1>2D-Segmentation-Pytorch</h1>
 
 <h4> Simply implement image semantic segmentation based on pytorch.</h4>
 
@@ -111,7 +111,7 @@ If you need to change the methods of implementing the above functions, please mo
 2. run `predict.py`
    
 ## Test
-1. ***WHU Building Dataset (Satellite dataset I)***  [Download](http://gpcv.whu.edu.cn/data/building_dataset.html)
+***WHU Building Dataset (Satellite dataset I)***  [Download](http://gpcv.whu.edu.cn/data/building_dataset.html)
 
    |size|classnum|train|val|test|
    |:--:|:--:|:--:|:--:|:--:|   
